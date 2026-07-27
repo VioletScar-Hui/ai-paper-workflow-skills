@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "01",
+    "filename": "01 - Sakana Fugu Technical Report.pdf",
+    "title": "Sakana Fugu Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/01_Sakana-Fugu技术报告.md",
+    "skipped_reason": null,
+    "concepts": [
+      "学习型编排器",
+      "LLM集体智能",
+      "动态智能体脚手架"
+    ]
+  },
+  {
+    "id": "02",
+    "filename": "02 - Are We Ready For An Agent-Native Memory System.pdf",
+    "title": "Are We Ready For An Agent-Native Memory System",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/02_Agent记忆系统综述.md",
+    "skipped_reason": null,
+    "concepts": [
+      "Agent记忆系统四模块"
+    ]
+  },
+  {
+    "id": "03",
+    "filename": "03 - Autodata - An Agentic Data Scientist to Create High-Quality Synthetic Data.pdf",
+    "title": "Autodata - An Agentic Data Scientist to Create High-Quality Synthetic Data",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/03_Autodata合成数据智能体.md",
+    "skipped_reason": null,
+    "concepts": [
+      "合成数据智能体"
+    ]
+  },
+  {
+    "id": "04",
+    "filename": "04 - Critique of Agent Model.pdf",
+    "title": "Critique of Agent Model",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/04_Agent模型批判.md",
+    "skipped_reason": null,
+    "concepts": [
+      "Agentic与Agentive区分"
+    ]
+  },
+  {
+    "id": "05",
+    "filename": "05 - Agent-as-a-Router - Agentic Model Routing for Coding Tasks.pdf",
+    "title": "Agent-as-a-Router - Agentic Model Routing for Coding Tasks",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/05_Agent路由器.md",
+    "skipped_reason": null,
+    "concepts": [
+      "模型路由与CAF循环"
+    ]
+  },
+  {
+    "id": "06",
+    "filename": "06 - A Technical Taxonomy of LLM Agent Communication Protocols.pdf",
+    "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/06_LLM-Agent通信协议分类.md",
+    "skipped_reason": null
+  },
+  {
+    "id": "07",
+    "filename": "07 - Human-like autonomy emerges from self-play and a pinch of human data.pdf",
+    "title": "Human-like autonomy emerges from self-play and a pinch of human data",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/07_自博弈与数据调味.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "08",
+    "filename": "08 - Skill-MAS - Evolving Meta-Skill for Automatic Multi-Agent Systems.pdf",
+    "title": "Skill-MAS - Evolving Meta-Skill for Automatic Multi-Agent Systems",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/08_Skill-MAS元技能自动多智能体.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "09",
+    "filename": "09 - Reliability without Validity.pdf",
+    "title": "Reliability without Validity",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/09_LLM-as-a-Judge可靠性评估.md",
+    "skipped_reason": null,
+    "concepts": [
+      "LLM-as-a-Judge的可靠性陷阱"
+    ]
+  },
+  {
+    "id": "10",
+    "filename": "10 - NatureBench - Can Coding Agents Match the Published SOTA of Nature Family Papers.pdf",
+    "title": "NatureBench - Can Coding Agents Match the Published SOTA of Nature Family Papers",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/10_NatureBench科研Agent评测.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "100",
+    "filename": "100 - LongCat-Flash-Prover - Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning.pdf",
+    "title": "LongCat-Flash-Prover - Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/100_LongCat-Flash-Prover形式化推理.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "101",
+    "filename": "101 - LongCat-Flash-Thinking-2601 Technical Report.pdf",
+    "title": "LongCat-Flash-Thinking-2601 Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/101_LongCat-Flash-Thinking技术报告.md",
+    "skipped_reason": null,
+    "concepts": [
+      "测试时计算扩展"
+    ]
+  },
+  {
+    "id": "102",
+    "filename": "102 - Hunyuan-GameCraft-2 - Instruction-following Interactive Game World Model.pdf",
+    "title": "Hunyuan-GameCraft-2 - Instruction-following Interactive Game World Model",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/102_Hunyuan-GameCraft-2交互式游戏世界模型.md",
+    "skipped_reason": null,
+    "concepts": [
+      "交互式游戏世界模型"
+    ]
+  },
+  {
+    "id": "103",
+    "filename": "103 - Hunyuan-MT Technical Report.pdf",
+    "title": "Hunyuan-MT Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/103_Hunyuan-MT多语言翻译.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "104",
+    "filename": "104 - Hunyuan-GameCraft - High-dynamic Interactive Game Video Generation with Hybrid History Condition.pdf",
+    "title": "Hunyuan-GameCraft - High-dynamic Interactive Game Video Generation with Hybrid History Condition",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/104_Hunyuan-GameCraft-v1游戏视频生成.md",
+    "skipped_reason": null,
+    "concepts": [
+      "交互式游戏世界模型"
+    ]
+  },
+  {
+    "id": "105",
+    "filename": "105 - Hunyuan-TurboS - Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought.pdf",
+    "title": "Hunyuan-TurboS - Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/105_Hunyuan-TurboS自适应思维模型.md",
+    "skipped_reason": null,
+    "concepts": [
+      "自适应思维模式"
+    ]
+  },
+  {
+    "id": "106",
+    "filename": "106 - Hunyuan-Game - Industrial-grade Intelligent Game Creation Model.pdf",
+    "title": "Hunyuan-Game - Industrial-grade Intelligent Game Creation Model",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/106_Hunyuan-Game游戏内容生成平台.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "107",
+    "filename": "107 - GeneBench-Pro - Evaluating Multistage Statistical Reasoning in Genomics, Quantitative Biology, and Translational Biomedicine.pdf",
+    "title": "GeneBench-Pro - Evaluating Multistage Statistical Reasoning in Genomics, Quantitative Biology, and Translational Biomedicine",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/107_GeneBench-Pro基因组学多阶段推理评测.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "108",
+    "filename": "108 - GPT-5.6 Preview System Card.pdf",
+    "title": "GPT-5.6 Preview System Card",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/108_GPT-5.6安全系统卡.md",
+    "skipped_reason": null,
+    "concepts": [
+      "Agentic意图越界"
+    ]
+  },
+  {
+    "id": "109",
+    "filename": "109 - The Shift to Agentic AI - Evidence from Codex.pdf",
+    "title": "The Shift to Agentic AI - Evidence from Codex",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/109_Agentic-AI工作委托转型.md",
+    "skipped_reason": null,
+    "concepts": [
+      "AI工作委托"
+    ]
+  },
+  {
+    "id": "11",
+    "filename": "11 - SpatialClaw - Rethinking Action Interface for Agentic Spatial Reasoning.pdf",
+    "title": "SpatialClaw - Rethinking Action Interface for Agentic Spatial Reasoning",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/11_SpatialClaw空间推理动作接口.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "110",
+    "filename": "110 - LifeSciBench - Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences.pdf",
+    "title": "LifeSciBench - Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/110_LifeSciBench生命科学评测.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "111",
+    "filename": "111 - TEMPO Improves Generality and Decreases Oxidative Deboronation in Chan-Lam Couplings of Primary Sulfonamides.pdf",
+    "title": "TEMPO Improves Generality and Decreases Oxidative Deboronation in Chan-Lam Couplings of Primary Sulfonamides",
+    "status": "skipped",
+    "note_path": null,
+    "skipped_reason": "非AI领域论文"
+  },
+  {
+    "id": "112",
+    "filename": "112 - Anthropic Economic Index report - Cadences.pdf",
+    "title": "Anthropic Economic Index report - Cadences",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/112_Anthropic经济指数报告-节奏.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "113",
+    "filename": "113 - Agentic coding and persistent returns to expertise.pdf",
+    "title": "Agentic coding and persistent returns to expertise",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/113_Agentic编程与专业知识回报.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "114",
+    "filename": "114 - Labor market impacts of AI - A new measure and early evidence.pdf",
+    "title": "Labor market impacts of AI - A new measure and early evidence",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/114_AI劳动市场影响实证研究.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "115",
+    "filename": "115 - Anthropic Economic Index report - Learning curves.pdf",
+    "title": "Anthropic Economic Index report - Learning curves",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/115_Anthropic经济指数报告-学习曲线.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "116",
+    "filename": "116 - Anthropic Economic Index report - Economic primitives.pdf",
+    "title": "Anthropic Economic Index report - Economic primitives",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/116_Anthropic经济指数报告-经济原语.md",
+    "skipped_reason": null,
+    "concepts": [
+      "经济原语框架",
+      "任务视野"
+    ]
+  },
+  {
+    "id": "117",
+    "filename": "117 - Gemini Embedding 2 - A Native Multimodal Embedding Model from Gemini.pdf",
+    "title": "Gemini Embedding 2 - A Native Multimodal Embedding Model from Gemini",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/117_Gemini-Embedding-2多模态嵌入模型.md",
+    "skipped_reason": null,
+    "concepts": [
+      "原生多模态嵌入"
+    ]
+  },
+  {
+    "id": "118",
+    "filename": "118 - MedGemma 1.5 Technical Report.pdf",
+    "title": "MedGemma 1.5 Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/118_MedGemma-1.5医学AI基础模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "119",
+    "filename": "119 - T5Gemma-TTS Technical Report.pdf",
+    "title": "T5Gemma-TTS Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/119_T5Gemma-TTS文本转语音.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "12",
+    "filename": "12 - Compositional Skill Routing for LLM Agents - Decompose, Retrieve, and Compose.pdf",
+    "title": "Compositional Skill Routing for LLM Agents - Decompose, Retrieve, and Compose",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/12_SKILLWEAVER组合技能路由.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "120",
+    "filename": "120 - T5Gemma 2 - Seeing, Reading, and Understanding Longer.pdf",
+    "title": "T5Gemma 2 - Seeing, Reading, and Understanding Longer",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/120_T5Gemma2编解码器语言模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "121",
+    "filename": "121 - VaultGemma - A Differentially Private Gemma Model.pdf",
+    "title": "VaultGemma - A Differentially Private Gemma Model",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/121_VaultGemma差分隐私语言模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "122",
+    "filename": "122 - Code as Agent Harness.pdf",
+    "title": "Code as Agent Harness",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/122_代码作为Agent框架调查.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "123",
+    "filename": "123 - Planar Point Sets with Many Unit Distances.pdf",
+    "title": "Planar Point Sets with Many Unit Distances",
+    "status": "skipped",
+    "note_path": null,
+    "skipped_reason": "非AI领域论文"
+  },
+  {
+    "id": "124",
+    "filename": "124 - MeMo - Memory as a Model.pdf",
+    "title": "MeMo - Memory as a Model",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/124_MeMo记忆即模型.md",
+    "skipped_reason": null,
+    "concepts": [
+      "记忆即模型"
+    ]
+  },
+  {
+    "id": "125",
+    "filename": "125 - Agentic Discovery of Neural Architectures - AIRA-Compose and AIRA-Design.pdf",
+    "title": "Agentic Discovery of Neural Architectures - AIRA-Compose and AIRA-Design",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/125_AIRA智能体神经架构搜索.md",
+    "skipped_reason": null,
+    "concepts": [
+      "递归自我改进"
+    ]
+  },
+  {
+    "id": "126",
+    "filename": "126 - Agentic Systems as Boosting Weak Reasoning Models.pdf",
+    "title": "Agentic Systems as Boosting Weak Reasoning Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/126_弱推理模型的Agentic增强.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "127",
+    "filename": "127 - MetaCogAgent - A Metacognitive Multi-Agent LLM Framework with Self-Aware Task Delegation.pdf",
+    "title": "MetaCogAgent - A Metacognitive Multi-Agent LLM Framework with Self-Aware Task Delegation",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/127_MetaCogAgent元认知多智能体框架.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "128",
+    "filename": "128 - A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents.pdf",
+    "title": "A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/128_生产LLM-Agent运行架构模式方法论.md",
+    "skipped_reason": null,
+    "concepts": [
+      "随机确定边界"
+    ]
+  },
+  {
+    "id": "129",
+    "filename": "129 - NanoGPT-Bench - Evaluating Autonomous Research Agents on the NanoGPT Speedrun.pdf",
+    "title": "NanoGPT-Bench - Evaluating Autonomous Research Agents on the NanoGPT Speedrun",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/129_NanoGPT-Bench自主研究Agent评测.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "13",
+    "filename": "13 - PreAct - Computer-Using Agents that Get Faster on Repeated Tasks.pdf",
+    "title": "PreAct - Computer-Using Agents that Get Faster on Repeated Tasks",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/13_PreAct重复任务加速的计算机使用Agent.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "130",
+    "filename": "130 - General Agent - A Self-Evolving, Synthetic Agent Environment.pdf",
+    "title": "General Agent - A Self-Evolving, Synthetic Agent Environment",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/130_General-Agent自进化合成Agent环境.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "131",
+    "filename": "131 - Targeted Neuron Modulation via Contrastive Pair Search.pdf",
+    "title": "Targeted Neuron Modulation via Contrastive Pair Search",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/131_CNA对比神经元归因行为引导.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "132",
+    "filename": "132 - Long Context Pre-Training with Lighthouse Attention.pdf",
+    "title": "Long Context Pre-Training with Lighthouse Attention",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/132_Lighthouse-Attention长上下文预训练.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "133",
+    "filename": "133 - Is Grep All You Need - How Agent Harnesses Reshape Agentic Search.pdf",
+    "title": "Is Grep All You Need - How Agent Harnesses Reshape Agentic Search",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/133_Grep-vs-向量检索Agent搜索对比.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "134",
+    "filename": "134 - Arithmetic in the Wild - Llama uses Base-10 Addition to Reason About Cyclic Concepts.pdf",
+    "title": "Arithmetic in the Wild - Llama uses Base-10 Addition to Reason About Cyclic Concepts",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/134_Llama循环概念的算术推理机制.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "135",
+    "filename": "135 - delta-mem - Efficient Online Memory for Large Language Models.pdf",
+    "title": "delta-mem - Efficient Online Memory for Large Language Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/135_delta-mem轻量在线记忆机制.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "136",
+    "filename": "136 - Beyond Individual Intelligence - Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems.pdf",
+    "title": "Beyond Individual Intelligence - Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/136_多Agent系统协作失败归因自进化综述.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "137",
+    "filename": "137 - LLMs Improving LLMs - Agentic Discovery for Test-Time Scaling.pdf",
+    "title": "LLMs Improving LLMs - Agentic Discovery for Test-Time Scaling",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/137_AutoTTS智能体自动发现测试时扩展策略.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "138",
+    "filename": "138 - AI co-mathematician - Accelerating mathematicians with agentic AI.pdf",
+    "title": "AI co-mathematician - Accelerating mathematicians with agentic AI",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/138_AI协数学家数学研究智能体工作台.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "139",
+    "filename": "139 - Harnessing Agentic Evolution.pdf",
+    "title": "Harnessing Agentic Evolution",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/139_AEVO元编辑Agent进化框架.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "14",
+    "filename": "14 - Can LLM Agents Infer World Models Evidence from Agentic Automata Learning.pdf",
+    "title": "Can LLM Agents Infer World Models Evidence from Agentic Automata Learning",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/14_LLM-Agent世界模型推断能力评测.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "140",
+    "filename": "140 - The Memory Curse - How Expanded Recall Erodes Cooperative Intent in LLM Agents.pdf",
+    "title": "The Memory Curse - How Expanded Recall Erodes Cooperative Intent in LLM Agents",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/140_记忆诅咒扩展记忆损害多Agent协作.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "141",
+    "filename": "141 - Efficient Pre-Training with Token Superposition.pdf",
+    "title": "Efficient Pre-Training with Token Superposition",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/141_TST词元叠加预训练效率优化.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "15",
+    "filename": "15 - From Trainee to Trainer - LLM-Designed Training Environment.pdf",
+    "title": "From Trainee to Trainer - LLM-Designed Training Environment",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/15_从学员到教练LLM设计自身训练环境.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "16",
+    "filename": "16 - OpenClaw-Skill - Collective Skill Tree Search for Agentic LLMs.pdf",
+    "title": "OpenClaw-Skill - Collective Skill Tree Search for Agentic LLMs",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/16_OpenClaw-Skill集体技能树搜索Agent技能构建.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "17",
+    "filename": "17 - Back on Track - Aligning Rewards and States for Reasoning in Diffusion Large Language Models.pdf",
+    "title": "Back on Track - Aligning Rewards and States for Reasoning in Diffusion Large Language Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/17_PAPO扩散语言模型的过程对齐RL优化.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "18",
+    "filename": "18 - AtomMem - Building Simple and Effective Memory System for LLM Agents via Atomic Facts.pdf",
+    "title": "AtomMem - Building Simple and Effective Memory System for LLM Agents via Atomic Facts",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/18_AtomMem基于原子事实的LLM-Agent长期记忆.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "19",
+    "filename": "19 - Beyond Domains - Reusing Web Skills via Transferable Interaction Patterns.pdf",
+    "title": "Beyond Domains - Reusing Web Skills via Transferable Interaction Patterns",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/19_SKILLMIGRATOR跨域Web技能迁移.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "20",
+    "filename": "20 - The Stanford EDGAR Filings Dataset.pdf",
+    "title": "The Stanford EDGAR Filings Dataset",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/20_Stanford-EDGAR-金融SEC申报文件预训练数据集.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "21",
+    "filename": "21 - MiniMax Sparse Attention.pdf",
+    "title": "MiniMax Sparse Attention",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/21_MiniMax稀疏注意力超长上下文高效推理.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "22",
+    "filename": "22 - Self-Harness - Harnesses That Improve Themselves.pdf",
+    "title": "Self-Harness - Harnesses That Improve Themselves",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/22_Self-Harness-Agent自我改进运行框架.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "23",
+    "filename": "23 - Agents' Last Exam.pdf",
+    "title": "Agents' Last Exam",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/23_ALE-Agents-Last-Exam-专业任务Agent评测.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "24",
+    "filename": "24 - How AI Agents Reshape Knowledge Work.pdf",
+    "title": "How AI Agents Reshape Knowledge Work",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/24_AI-Agent如何重塑知识工作经济学研究.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "25",
+    "filename": "25 - Agentopia - Long-Term Life Simulation and Learning in Agent Societies.pdf",
+    "title": "Agentopia - Long-Term Life Simulation and Learning in Agent Societies",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/25_Agentopia-长期生命仿真和Agent社会学习.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "26",
+    "filename": "26 - On the Geometry of On-Policy Distillation.pdf",
+    "title": "On the Geometry of On-Policy Distillation",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/26_在策略蒸馏的参数空间几何分析.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "27",
+    "filename": "27 - FlashMemory-DeepSeek-V4 - Lightning Index Ultra-Long Context via Lookahead Sparse Attention.pdf",
+    "title": "FlashMemory-DeepSeek-V4 - Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/27_FlashMemory-DeepSeek-V4超长上下文KV缓存压缩.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "28",
+    "filename": "28 - Latent Spatial Memory for Video World Models.pdf",
+    "title": "Latent Spatial Memory for Video World Models",
+    "status": "skipped",
+    "note_path": null,
+    "skipped_reason": null,
+    "skip_reason": "PDF corrupted (Unexpected EOF)"
+  },
+  {
+    "id": "29",
+    "filename": "29 - The Consistency Illusion.pdf",
+    "title": "The Consistency Illusion",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/29_一致性幻觉-多Agent辩论隐藏推理不对齐.md",
+    "skipped_reason": null,
+    "concepts": [
+      "一致性幻觉"
+    ]
+  },
+  {
+    "id": "30",
+    "filename": "30 - Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions.pdf",
+    "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/30_Z-Reward文生图奖励模型分布化.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "31",
+    "filename": "31 - Self-Revising Discovery Systems for Science - A Categorical Framework for Agentic Artificial Intelligence.pdf",
+    "title": "Self-Revising Discovery Systems for Science - A Categorical Framework for Agentic Artificial Intelligence",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/31_科学AI自修正发现系统范畴论框架.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "32",
+    "filename": "32 - Harness Updating Is Not Harness Benefit - Disentangling Agent Self-Evolution.pdf",
+    "title": "Harness Updating Is Not Harness Benefit - Disentangling Agent Self-Evolution",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/32_Harness更新vs获益-自进化Agent能力解耦.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "33",
+    "filename": "33 - LEAP - Supercharging LLMs for Formal Mathematics with Agentic Frameworks.pdf",
+    "title": "LEAP - Supercharging LLMs for Formal Mathematics with Agentic Frameworks",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/33_LEAP-LLM形式化数学证明Agent框架.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "34",
+    "filename": "34 - Scaling Laws for Agent Harnesses via Effective Feedback Compute.pdf",
+    "title": "Scaling Laws for Agent Harnesses via Effective Feedback Compute",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/34_Agent-Harness有效反馈计算扩展律.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "35",
+    "filename": "35 - AutoLab - Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks.pdf",
+    "title": "AutoLab - Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/35_AutoLab超长视野自动研究工程任务评测.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "36",
+    "filename": "36 - Learning Agent-Compatible Context Management for Long-Horizon Tasks.pdf",
+    "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/36_AdaCoM长视野Agent自适应上下文管理.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "37",
+    "filename": "37 - Learn from your own latents and not from tokens - A sample-complexity theory.pdf",
+    "title": "Learn from your own latents and not from tokens - A sample-complexity theory",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/37_从潜在表示而非Token学习的样本复杂度理论.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "38",
+    "filename": "38 - A Primer in Post-Training Reasoning Data - What We Know About How It Works.pdf",
+    "title": "A Primer in Post-Training Reasoning Data - What We Know About How It Works",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/38_后训练推理数据入门综述.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "39",
+    "filename": "39 - Harness-1 - Reinforcement Learning for Search Agents with State-Externalizing Harnesses.pdf",
+    "title": "Harness-1 - Reinforcement Learning for Search Agents with State-Externalizing Harnesses",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/39_Harness-1状态外化搜索Agent.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "40",
+    "filename": "40 - Do More Agents Help Controlled and Protocol-Aligned Evaluation of LLM Agent Workflows.pdf",
+    "title": "Do More Agents Help Controlled and Protocol-Aligned Evaluation of LLM Agent Workflows",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/40_多Agent是否有助于性能提升受控评测.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "41",
+    "filename": "41 - SkillOpt - Executive Strategy for Self-Evolving Agent Skills.pdf",
+    "title": "SkillOpt - Executive Strategy for Self-Evolving Agent Skills",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/41_SkillOpt-Agent技能的文本空间优化器.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "42",
+    "filename": "42 - Compiling Agentic Workflows into LLM Weights.pdf",
+    "title": "Compiling Agentic Workflows into LLM Weights",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/42_将Agent工作流编译进LLM权重.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "43",
+    "filename": "43 - AutoScientists - Self-Organizing Agent Teams for Long-Running Scientific Discovery.pdf",
+    "title": "AutoScientists - Self-Organizing Agent Teams for Long-Running Scientific Discovery",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/43_AutoScientists自组织Agent团队科学发现.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "44",
+    "filename": "44 - Do Language Models Need Sleep Offline Recurrence for Improved Online Inference.pdf",
+    "title": "Do Language Models Need Sleep Offline Recurrence for Improved Online Inference",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/44_LLM是否需要睡眠离线递归的记忆巩固.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "45",
+    "filename": "45 - Adapting the Interface, Not the Model.pdf",
+    "title": "Adapting the Interface, Not the Model",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/45_LIFE-HARNESS适配接口而非模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "46",
+    "filename": "46 - The Efficiency Frontier - A Unified Framework for Cost-Performance Optimization in LLM Context Management.pdf",
+    "title": "The Efficiency Frontier - A Unified Framework for Cost-Performance Optimization in LLM Context Management",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/46_效率前沿LLM上下文管理成本性能优化框架.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "47",
+    "filename": "47 - Forecasting Scientific Progress with Artificial Intelligence.pdf",
+    "title": "Forecasting Scientific Progress with Artificial Intelligence",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/47_CUSP用AI预测科学进展.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "48",
+    "filename": "48 - Your Agents Are Aging Too - Agent Lifespan Engineering for Deployed Systems.pdf",
+    "title": "Your Agents Are Aging Too - Agent Lifespan Engineering for Deployed Systems",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/48_AgingBench-你的Agent也在老化.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "49",
+    "filename": "49 - Harnesses for Inference-Time Alignment over Execution Trajectories.pdf",
+    "title": "Harnesses for Inference-Time Alignment over Execution Trajectories",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/49_执行轨迹对齐的Harness推理时设计理论.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "50",
+    "filename": "50 - Epicure - Navigating the Emergent Geometry of Food Ingredient Embeddings.pdf",
+    "title": "Epicure - Navigating the Emergent Geometry of Food Ingredient Embeddings",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/50_Epicure食材Embedding多语言烹饪向量.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "51",
+    "filename": "51 - Attention Is All You Need.pdf",
+    "title": "Attention Is All You Need",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/51_AttentionIsAllYouNeed-Transformer原始论文.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "52",
+    "filename": "52 - Improving Language Understanding by Generative Pre-Training.pdf",
+    "title": "Improving Language Understanding by Generative Pre-Training",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/52_GPT-1生成式预训练语言理解.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "53",
+    "filename": "53 - BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf",
+    "title": "BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/53_BERT深度双向Transformer预训练.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "54",
+    "filename": "54 - Transformer-XL - Attentive Language Models Beyond a Fixed-Length Context.pdf",
+    "title": "Transformer-XL - Attentive Language Models Beyond a Fixed-Length Context",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/54_Transformer-XL超越固定长度上下文的语言模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "55",
+    "filename": "55 - Language Models are Unsupervised Multitask Learners.pdf",
+    "title": "Language Models are Unsupervised Multitask Learners",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/55_GPT-2语言模型是无监督多任务学习者.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "56",
+    "filename": "56 - ERNIE - Enhanced Representation through Knowledge Integration.pdf",
+    "title": "ERNIE - Enhanced Representation through Knowledge Integration",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/56_ERNIE知识增强表示学习.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "57",
+    "filename": "57 - DistilBERT, a distilled version of BERT - smaller, faster, cheaper and lighter.pdf",
+    "title": "DistilBERT, a distilled version of BERT - smaller, faster, cheaper and lighter",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/57_DistilBERT更小更快更便宜的BERT.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "58",
+    "filename": "58 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.pdf",
+    "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/58_T5探索文本到文本迁移学习的极限.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "59",
+    "filename": "59 - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.pdf",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/59_RAG知识密集型NLP任务的检索增强生成.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "60",
+    "filename": "60 - Language Models are Few-Shot Learners.pdf",
+    "title": "Language Models are Few-Shot Learners",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/60_GPT-3语言模型是小样本学习者.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "61",
+    "filename": "61 - AutoPrompt - Eliciting Knowledge from Language Models with Automatically Generated Prompts.pdf",
+    "title": "AutoPrompt - Eliciting Knowledge from Language Models with Automatically Generated Prompts",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/61_AutoPrompt自动化从语言模型提取知识.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "62",
+    "filename": "62 - RoFormer - Enhanced Transformer with Rotary Position Embedding.pdf",
+    "title": "RoFormer - Enhanced Transformer with Rotary Position Embedding",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/62_RoFormer旋转位置嵌入的增强Transformer.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "63",
+    "filename": "63 - LoRA - Low-Rank Adaptation of Large Language Models.pdf",
+    "title": "LoRA - Low-Rank Adaptation of Large Language Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/63_LoRA大型语言模型的低秩适配.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "64",
+    "filename": "64 - Evaluating Large Language Models Trained on Code.pdf",
+    "title": "Evaluating Large Language Models Trained on Code",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/64_Codex评估在代码上训练的大型语言模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "65",
+    "filename": "65 - Finetuned Language Models Are Zero-Shot Learners.pdf",
+    "title": "Finetuned Language Models Are Zero-Shot Learners",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/65_FLAN微调语言模型是零样本学习者.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "66",
+    "filename": "66 - GLaM - Efficient Scaling of Language Models with Mixture-of-Experts.pdf",
+    "title": "GLaM - Efficient Scaling of Language Models with Mixture-of-Experts",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/66_GLaM专家混合高效扩展语言模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "67",
+    "filename": "67 - WebGPT - Browser-assisted question-answering with human feedback.pdf",
+    "title": "WebGPT - Browser-assisted question-answering with human feedback",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/67_WebGPT浏览器辅助问答与人类反馈.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "68",
+    "filename": "68 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.pdf",
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/68_ChainOfThought思维链提示激发大模型推理.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "69",
+    "filename": "69 - PaLM - Scaling Language Modeling with Pathways.pdf",
+    "title": "PaLM - Scaling Language Modeling with Pathways",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/69_PaLM用Pathways扩展语言建模.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "70",
+    "filename": "70 - Training language models to follow instructions with human feedback.pdf",
+    "title": "Training language models to follow instructions with human feedback",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/70_InstructGPT训练语言模型遵循人类指令.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "71",
+    "filename": "71 - Let's Verify Step by Step.pdf",
+    "title": "Let's Verify Step by Step",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/71_LetsVerifyStepByStep过程奖励模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "72",
+    "filename": "72 - LLM.int8() - 8-bit Matrix Multiplication for Transformers at Scale.pdf",
+    "title": "LLM.int8() - 8-bit Matrix Multiplication for Transformers at Scale",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/72_LLM-int8-8位量化大模型推理.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "73",
+    "filename": "73 - ReAct - Synergizing Reasoning and Acting in Language Models.pdf",
+    "title": "ReAct - Synergizing Reasoning and Acting in Language Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/73_ReAct推理与行动的协同.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "74",
+    "filename": "74 - Toolformer - Language Models Can Teach Themselves to Use Tools.pdf",
+    "title": "Toolformer - Language Models Can Teach Themselves to Use Tools",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/74_Toolformer语言模型自学使用工具.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "75",
+    "filename": "75 - LLaMA - Open and Efficient Foundation Language Models.pdf",
+    "title": "LLaMA - Open and Efficient Foundation Language Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/75_LLaMA高效开放的基础语言模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "76",
+    "filename": "76 - GPT-4 Technical Report.pdf",
+    "title": "GPT-4 Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/76_GPT-4技术报告.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "77",
+    "filename": "77 - QLoRA - Efficient Finetuning of Quantized LLMs.pdf",
+    "title": "QLoRA - Efficient Finetuning of Quantized LLMs",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/77_QLoRA量化大模型的高效微调.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "78",
+    "filename": "78 - Textbooks Are All You Need.pdf",
+    "title": "Textbooks Are All You Need",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/78_教科书就是你所需要的phi-1代码模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "79",
+    "filename": "79 - RLAIF vs. RLHF - Scaling Reinforcement Learning from Human Feedback with AI Feedback.pdf",
+    "title": "RLAIF vs. RLHF - Scaling Reinforcement Learning from Human Feedback with AI Feedback",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/79_RLAIF对比RLHF用AI反馈扩展强化学习.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "80",
+    "filename": "80 - Weak-to-Strong Generalization - Eliciting Strong Capabilities With Weak Supervision.pdf",
+    "title": "Weak-to-Strong Generalization - Eliciting Strong Capabilities With Weak Supervision",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/80_弱到强泛化用弱监督激发强能力.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "81",
+    "filename": "81 - From Local to Global - A Graph RAG Approach to Query-Focused Summarization.pdf",
+    "title": "From Local to Global - A Graph RAG Approach to Query-Focused Summarization",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/81_GraphRAG图结构增强的查询聚焦摘要.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "82",
+    "filename": "82 - DeepSeek-V4 - Towards Highly Efficient Million-Token Context Intelligence.pdf",
+    "title": "DeepSeek-V4 - Towards Highly Efficient Million-Token Context Intelligence",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/82_DeepSeek-V4百万Token高效长上下文.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "83",
+    "filename": "83 - DeepSeek-V3.2 - Pushing the Frontier of Open Large Language Models.pdf",
+    "title": "DeepSeek-V3.2 - Pushing the Frontier of Open Large Language Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/83_DeepSeek-V3.2开放大模型新前沿.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "84",
+    "filename": "84 - DeepSeek-R1 - Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.pdf",
+    "title": "DeepSeek-R1 - Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/84_DeepSeek-R1强化学习激励推理能力.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "85",
+    "filename": "85 - DeepSeek-V3 Technical Report.pdf",
+    "title": "DeepSeek-V3 Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/85_DeepSeek-V3技术报告.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "86",
+    "filename": "86 - DeepSeek-Coder-V2 - Breaking the Barrier of Closed-Source Models in Code Intelligence.pdf",
+    "title": "DeepSeek-Coder-V2 - Breaking the Barrier of Closed-Source Models in Code Intelligence",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/86_DeepSeek-Coder-V2突破代码智能闭源壁垒.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "87",
+    "filename": "87 - GLM-5V-Turbo - Toward a Native Foundation Model for Multimodal Agents.pdf",
+    "title": "GLM-5V-Turbo - Toward a Native Foundation Model for Multimodal Agents",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/87_GLM-5V-Turbo多模态Agent原生基础模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "88",
+    "filename": "88 - GLM-OCR Technical Report.pdf",
+    "title": "GLM-OCR Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/88_GLM-OCR文档理解的紧凑多模态模型.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "89",
+    "filename": "89 - GLM-5 - from Vibe Coding to Agentic Engineering.pdf",
+    "title": "GLM-5 - from Vibe Coding to Agentic Engineering",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/89_GLM-5从氛围编码到Agent工程.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "90",
+    "filename": "90 - GLM-TTS Technical Report.pdf",
+    "title": "GLM-TTS Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/90_GLM-TTS生产级语音合成技术报告.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "91",
+    "filename": "91 - ChatGLM - A Family of Large Language Models from GLM-130B to GLM-4 All Tools.pdf",
+    "title": "ChatGLM - A Family of Large Language Models from GLM-130B to GLM-4 All Tools",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/91_ChatGLM从GLM-130B到GLM-4全工具.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "92",
+    "filename": "92 - Towards stable and accurate electron dynamics via neural network based time-dependent variational Monte Carlo.pdf",
+    "title": "Towards stable and accurate electron dynamics via neural network based time-dependent variational Monte Carlo",
+    "status": "skipped",
+    "note_path": null,
+    "skipped_reason": "非AI领域论文"
+  },
+  {
+    "id": "93",
+    "filename": "93 - MetaPoint - Unlocking Precise Spatial Control in Agentic Visual Generation.pdf",
+    "title": "MetaPoint - Unlocking Precise Spatial Control in Agentic Visual Generation",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/93_MetaPoint解锁视觉生成的精确空间控制.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "94",
+    "filename": "94 - Task-Focused Memorization for Multimodal Agents.pdf",
+    "title": "Task-Focused Memorization for Multimodal Agents",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/94_TaskMem多模态Agent的任务聚焦记忆.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "95",
+    "filename": "95 - More Expressive Feedforward Layers - Part I. Token-Adaptive Mixing of Activations.pdf",
+    "title": "More Expressive Feedforward Layers - Part I. Token-Adaptive Mixing of Activations",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/95_更具表达力的FFN层Token自适应激活混合.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "96",
+    "filename": "96 - Negligible in Size, Significant in Effect - On Scale Vectors in Large Language Models.pdf",
+    "title": "Negligible in Size, Significant in Effect - On Scale Vectors in Large Language Models",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/96_尺寸可忽略效果显著LLM中的尺度向量.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "97",
+    "filename": "97 - LongCat-Video-Avatar 1.5 Technical Report.pdf",
+    "title": "LongCat-Video-Avatar 1.5 Technical Report",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/97_LongCat-Video-Avatar-1.5音频驱动视频生成.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "98",
+    "filename": "98 - LongCat-AudioDiT - High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space.pdf",
+    "title": "LongCat-AudioDiT - High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/98_LongCat-AudioDiT波形潜在空间的高保真扩散TTS.md",
+    "skipped_reason": null,
+    "concepts": []
+  },
+  {
+    "id": "99",
+    "filename": "99 - LongCat-Next - Lexicalizing Modalities as Discrete Tokens.pdf",
+    "title": "LongCat-Next - Lexicalizing Modalities as Discrete Tokens",
+    "status": "done",
+    "note_path": "Wiki/论文笔记/99_LongCat-Next将模态词汇化为离散Token.md",
+    "skipped_reason": null,
+    "concepts": []
+  }
+]

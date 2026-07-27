@@ -1,0 +1,10 @@
+.claude/
+.claudian/
+_tmp*/
+_tmp_*.txt
+_github_upload_repo/
+.obsidian/plugins/
+RAW/chrome_test.pdf
+*.log
+*.tmp
+*.bak

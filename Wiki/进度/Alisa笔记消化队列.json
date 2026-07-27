@@ -1,0 +1,199 @@
+{
+  "source": "https://alisawuffles.notion.site/alisa-s-book-of-llms",
+  "source_raw": "RAW/alisa_book_of_llms.md",
+  "started": "2026-07-09",
+  "total_raw_sections": 50,
+  "total_output_files": 29,
+  "items": [
+    {
+      "id": "E1",
+      "type": "扩展",
+      "path": "Wiki/概念/01_架构技术/Flash Attention.md",
+      "covers": "在线softmax分块/SRAM-HBM机制",
+      "status": "done"
+    },
+    {
+      "id": "E2",
+      "type": "扩展",
+      "path": "Wiki/概念/01_架构技术/RoPE旋转位置编码.md",
+      "covers": "相对位置内积证明/复数重述/工程实现",
+      "status": "done"
+    },
+    {
+      "id": "E3",
+      "type": "扩展",
+      "path": "Wiki/概念/01_架构技术/投机解码.md",
+      "covers": "接受概率完整证明",
+      "status": "done"
+    },
+    {
+      "id": "E4",
+      "type": "扩展",
+      "path": "Wiki/概念/05_记忆与检索/上下文压缩与KV缓存.md",
+      "covers": "KV cache公式/MQA-GQA-MLA/跨层注意力/局部窗口",
+      "status": "done"
+    },
+    {
+      "id": "E5",
+      "type": "扩展",
+      "path": "Wiki/概念/01_架构技术/自注意力机制.md",
+      "covers": "causal mask/QK-norm/GQA reshape/滑窗与稀疏注意力",
+      "status": "done"
+    },
+    {
+      "id": "E6",
+      "type": "扩展",
+      "path": "Wiki/概念/01_架构技术/SSM状态空间模型.md",
+      "covers": "Mamba选择性机制/RNN-Transformer-SSM复杂度对比",
+      "status": "done"
+    },
+    {
+      "id": "E7",
+      "type": "扩展",
+      "path": "Wiki/概念/02_训练方法/RLHF与RLAIF.md",
+      "covers": "KL惩罚公式/Bradley-Terry奖励模型训练推导",
+      "status": "done"
+    },
+    {
+      "id": "E8",
+      "type": "扩展",
+      "path": "Wiki/概念/02_训练方法/GRPO优化算法.md",
+      "covers": "组内相对优势公式/Dr.GRPO偏差修正",
+      "status": "done"
+    },
+    {
+      "id": "E9",
+      "type": "扩展",
+      "path": "Wiki/概念/02_训练方法/DPO直接偏好优化.md",
+      "covers": "从RLHF目标闭式解推导DPO loss全过程",
+      "status": "done"
+    },
+    {
+      "id": "N1",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/多层感知机与线性层.md",
+      "status": "done"
+    },
+    {
+      "id": "N2",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/激活函数选择.md",
+      "status": "done"
+    },
+    {
+      "id": "N3",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/反向传播与自动微分.md",
+      "status": "done"
+    },
+    {
+      "id": "N4",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/Adam优化器与学习率调度.md",
+      "status": "done"
+    },
+    {
+      "id": "N5",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/信息论基础(交叉熵与KL散度).md",
+      "status": "done"
+    },
+    {
+      "id": "N6",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/数值稳定性技巧(LogSumExp与在线Softmax).md",
+      "status": "done"
+    },
+    {
+      "id": "N7",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/评测统计检验方法.md",
+      "status": "done"
+    },
+    {
+      "id": "N8",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/采样的可微化(Gumbel-Softmax与直通估计).md",
+      "status": "done"
+    },
+    {
+      "id": "N9",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/混合精度训练.md",
+      "status": "done"
+    },
+    {
+      "id": "N10",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/分布式训练通信原语与数据并行.md",
+      "status": "done"
+    },
+    {
+      "id": "N11",
+      "type": "新建",
+      "path": "Wiki/概念/00_LLM工程基础/流水线并行与张量并行.md",
+      "status": "done"
+    },
+    {
+      "id": "N12",
+      "type": "新建",
+      "path": "Wiki/概念/03_推理与评测/推理批处理与采样策略.md",
+      "status": "done"
+    },
+    {
+      "id": "N13",
+      "type": "新建",
+      "path": "Wiki/概念/01_架构技术/RMSNorm与LayerNorm.md",
+      "status": "done"
+    },
+    {
+      "id": "N14",
+      "type": "新建",
+      "path": "Wiki/概念/01_架构技术/SwiGLU门控前馈网络.md",
+      "status": "done"
+    },
+    {
+      "id": "N15",
+      "type": "新建",
+      "path": "Wiki/概念/01_架构技术/RNN与LSTM.md",
+      "status": "done"
+    },
+    {
+      "id": "N16",
+      "type": "新建",
+      "path": "Wiki/概念/01_架构技术/Transformer完整前向传播与实现细节.md",
+      "status": "done"
+    },
+    {
+      "id": "N17",
+      "type": "新建",
+      "path": "Wiki/概念/01_架构技术/Transformer显存与算力核算.md",
+      "status": "done"
+    },
+    {
+      "id": "N18",
+      "type": "新建(修复断链)",
+      "path": "Wiki/概念/02_训练方法/PPO近端策略优化.md",
+      "status": "done"
+    },
+    {
+      "id": "N19",
+      "type": "新建(修复断链)",
+      "path": "Wiki/概念/02_训练方法/Scaling Law.md",
+      "status": "done"
+    },
+    {
+      "id": "N20",
+      "type": "新建(修复断链)",
+      "path": "Wiki/概念/06_多模态生成/多模态对齐与CLIP.md",
+      "status": "done"
+    }
+  ],
+  "merged_thin_sections": [
+    "Learning rate → 并入 N4 Adam优化器与学习率调度.md",
+    "Theoretical CS → 并入 N15 RNN与LSTM.md 的表达力子节",
+    "GPUs (HBM/SRAM) → 并入 N17 Transformer显存与算力核算.md"
+  ],
+  "completed": "2026-07-09",
+  "note": "全部29个文件已确认存在(含手动补写的推理批处理与采样策略.md,原计划遗漏)。发现1处数值冲突需用户确认:Flash Attention.md 现有内容写的是256MB,源笔记精确计算是4GB(8192^2×32头×2字节)。"
+}
