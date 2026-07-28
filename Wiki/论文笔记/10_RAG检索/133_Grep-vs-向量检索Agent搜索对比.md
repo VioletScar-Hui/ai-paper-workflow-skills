@@ -192,9 +192,9 @@ class RedisCache:
     def delete(self, key: str): self.client.delete(key)
 """,
     "config.py": """
-SECRET_KEY = "prod-secret-v2-2026"
-STRIPE_API_KEY = "sk_live_a1b2c3d4e5f6"
-DATABASE_URL = "postgresql://user:pass@db.internal:5432/main"
+SECRET_KEY = "<SECRET_KEY>"
+STRIPE_API_KEY = "<STRIPE_API_KEY>"
+DATABASE_URL = "postgresql://<user>:<password>@db.internal:5432/main"
 REDIS_HOST = "redis.internal"
 CACHE_TTL = 3600
 MAX_RETRIES = 3
